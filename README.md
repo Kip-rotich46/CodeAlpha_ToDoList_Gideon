@@ -13,7 +13,7 @@ A simple, user-friendly To-Do list application where users can add tasks, mark t
 - **Frontend:** HTML, CSS, JavaScript
 
 ## Live Demo
-Check out the live demo of the app: [Live Demo Link](http://example.com)  
+Check out the live demo of the app: [Live Demo Link]([http://example.com](https://kip-rotich46.github.io/CodeAlpha_ToDoList_Gideon/))  
 
 
 ## Installation
@@ -21,9 +21,7 @@ Check out the live demo of the app: [Live Demo Link](http://example.com)
 To run the app locally, follow these steps:
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/todo-list-app.git
-```
+
 
 ### 2. Open the project folder
 Navigate to the folder where you cloned the project and open `index.html` in your browser.
