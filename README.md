@@ -13,7 +13,8 @@ A simple, user-friendly To-Do list application where users can add tasks, mark t
 - **Frontend:** HTML, CSS, JavaScript
 
 ## Live Demo
-Check out the live demo of the app: [Live Demo Link]([http://example.com](https://kip-rotich46.github.io/CodeAlpha_ToDoList_Gideon/))  
+Check out the live demo of the app: [Live Demo Link]([http://example.com](https://kip-rotich46.github.io/CodeAlpha_ToDoList_Gideon/))
+https://kip-rotich46.github.io/CodeAlpha_ToDoList_Gideon/
 
 
 ## Installation
